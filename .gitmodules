@@ -1,3 +1,7 @@
-[submodule "hello-java"]
-	path = hello-java
+
+[submodule "aux2/hello-java"]
+	path = aux2/hello-java
 	url = https://github.com/Roldans/hello-java
+[submodule "aux2/bye-java"]
+	path = aux2/bye-java
+	url = https://github.com/Roldans/bye-java
